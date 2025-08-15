@@ -35,8 +35,8 @@
   "license": "MIT",
   "dependencies": {
     "@sparticuz/chromium": "^138.0.2",
-    "puppeteer": "^24.15.0",
-    "puppeteer-core": "^24.15.0",
+    "puppeteer": "21.9.0",
+    "puppeteer-core": "21.9.0",
     "tmp": "^0.2.3"
   },
   "bugs": {
